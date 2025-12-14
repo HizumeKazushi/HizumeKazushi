@@ -2,6 +2,8 @@
 
 I'm Kazushi Hizume — a KOSEN student focusing on backend, SRE, and cloud.
 I mainly build with Go and TypeScript, aiming for reliable, observable systems.
+### 📊 Language Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HizumeKazushi&layout=compact&langs_count=8&hide=html,css&theme=tokyonight)
 
 ### 🔧 Tech & Tools
 - Languages: Go, TypeScript
@@ -43,6 +45,9 @@ I mainly build with Go and TypeScript, aiming for reliable, observable systems.
 
 日詰 和志（Kazushi Hizume）です。  
 バックエンド・SRE・クラウドを中心に、Go と TypeScript で開発しています。
+
+### 📊 使用言語統計
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HizumeKazushi&layout=compact&langs_count=8&hide=html,css&theme=tokyonight)
 
 ### 🔧 技術スタック
 - 言語: Go, TypeScript
