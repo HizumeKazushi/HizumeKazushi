@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kazushi Hizume
+I'm Hizume Kazushi
 I mainly build with Go and TypeScript.
 ### 📊 Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HizumeKazushi&layout=compact&langs_count=8&hide=html,css&theme=tokyonight)
@@ -34,7 +34,7 @@ I mainly build with Go and TypeScript.
 
 ## こんにちは 👋
 
-日詰 和志（Kazushi Hizume）です。  
+日詰 和志（Hizume Kazushi）です。  
 バックエンドを中心に、Go と TypeScript で開発しています。
 
 ### 📊 使用言語統計
