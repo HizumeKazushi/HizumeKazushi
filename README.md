@@ -7,7 +7,7 @@ I mainly build with Go and TypeScript.
 
 ### 🔧 Tech & Tools
 - Languages: Go, TypeScript
-- Backend/Frameworks: Echo, Gin
+- Backend/Frameworks: Echo
 - Frontend: Vue 3, Nuxt 3, Vuetify
 - Infra/DB: Docker, PostgreSQL
 
