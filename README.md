@@ -4,6 +4,8 @@ I'm Hizume Kazushi
 I mainly build with Go and TypeScript.
 ### 📊 Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HizumeKazushi&layout=compact&langs_count=8&hide=html,css&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HizumeKazushi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HizumeKazushi&layout=compact&theme=tokyonight)
 
 
 ### 🔧 Tech & Tools
