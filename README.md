@@ -1,4 +1,4 @@
-」##」## Hi there
+#### Hi there
 
 I'm Hizume Kazushi
 I mainly build with Go and TypeScript.
