@@ -1,38 +1,19 @@
-#### Hi there
+## Hi there 👋
 
-I'm Hizume Kazushi
+I'm Hizume Kazushi  
 I mainly build with Go and TypeScript.
+
 ### 📊 Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HizumeKazushi&layout=compact&langs_count=8&hide=html,css&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HizumeKazushi&layout=compact&langs_count=8&hide=html,css&theme=tokyonight&cache_seconds=7200)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HizumeKazushi&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HizumeKazushi&show_icons=true&theme=tokyonight&cache_seconds=7200)
 
 ### 🔧 Tech & Tools
 - Languages: Go, TypeScript
 - Backend/Frameworks: Echo
 - Frontend: Vue 3, Nuxt 3, Vuetify
 - Infra/DB: Docker, PostgreSQL
-
-### 🎓 Education
-- National Institute of Technology, Maizuru College (KOSEN)
-
-### 🌱 Learning
-- SRE practices (monitoring, observability, deployment)
-- Web security (CORS, SQL Injection)
-- Technical English
-
-### 🤝 Communities
-- NIT-Maizuru-Programmers-Community
-- NIT-Maizuru-E-Project
-
-### 📫 Contact
-- GitHub: @HizumeKazushi  
-- X: @20_mochi_38
-
-### ⚡ Interests
-- Gadgets/audio, custom keyboards, F1
 
 ---
 
@@ -43,9 +24,9 @@ I mainly build with Go and TypeScript.
 
 ### 📊 使用言語統計
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HizumeKazushi&layout=compact&langs_count=8&hide=html,css&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HizumeKazushi&layout=compact&langs_count=8&hide=html,css&theme=tokyonight&cache_seconds=7200)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HizumeKazushi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HizumeKazushi&show_icons=true&theme=tokyonight&cache_seconds=7200)
 
 ### 🔧 技術スタック
 - 言語: Go, TypeScript
@@ -53,21 +34,3 @@ I mainly build with Go and TypeScript.
 - フロントエンド: Vue 3, Nuxt 3, Vuetify
 - インフラ/DB: Docker, PostgreSQL
 
-### 🎓 教育
-- 舞鶴工業高等専門学校（KOSEN）
-
-### 🌱 学習中
-- SREプラクティス（監視・可観測性・デプロイ）
-- Webセキュリティ（CORS / SQL Injection）
-- 英語（技術文書）
-
-### 🤝 コミュニティ
-- NIT-Maizuru-Programmers-Community
-- NIT-Maizuru-E-Project
-
-### 📫 連絡先
-- GitHub: @HizumeKazushi  
-- X: @20_mochi_38
-
-### ⚡ 興味
-- ガジェット/オーディオ、カスタムキーボード、F1
