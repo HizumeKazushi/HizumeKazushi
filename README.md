@@ -9,11 +9,11 @@ I mainly build with Go and TypeScript.
 ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
 
 
-<details><summary>My hobby</summary>
-* テキスト
-    * テキスト
-    * テキスト
-</details>
+My hobby
+- Watching MotorSports
+- Listening to music
+- Collect gadget
+- Making keyboard
 
 ---
 
@@ -27,12 +27,8 @@ I mainly build with Go and TypeScript.
 ### 🔧 技術スタック
 ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
 
-<details><summary>趣味</summary>
-・モータースポーツ観戦
-
-・音楽鑑賞
-
-・ガジェット集め
-
-・自作キーボード
-</details>
+趣味
+- モータスポーツ観戦
+- 音楽鑑賞
+- ガジェット収集
+- 自作キーボード
