@@ -13,7 +13,9 @@ I mainly build with Go and TypeScript.
 ・Watching MotorSport
   
 ・Listening Music
+
 ・Collect gadgets
+
 ・Making Keyboards
 </details>
 
