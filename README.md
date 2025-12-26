@@ -13,8 +13,4 @@ I mainly build with Go and TypeScript.
 バックエンドを中心に、Go と TypeScript で開発しています。
 
 ### 🔧 技術スタック
-- 言語: Go, TypeScript
-- バックエンド/FW: Echo
-- フロントエンド: Vue 3, Nuxt 3, Vuetify
-- インフラ/DB: Docker, PostgreSQL
-
+  ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
