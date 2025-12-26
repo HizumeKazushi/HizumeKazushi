@@ -10,7 +10,7 @@ I mainly build with Go and TypeScript.
 
 
 <details><summary>My hobby</summary>
-* Watching MotorSport
+- Watching MotorSport
   
 </details>
 
