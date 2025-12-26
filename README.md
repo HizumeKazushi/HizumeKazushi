@@ -10,13 +10,9 @@ I mainly build with Go and TypeScript.
 
 
 <details><summary>My hobby</summary>
-・Watching MotorSport
-  
-・Listening Music
-
-・Collect gadgets
-
-・Making Keyboards
+* テキスト
+    * テキスト
+    * テキスト
 </details>
 
 ---
