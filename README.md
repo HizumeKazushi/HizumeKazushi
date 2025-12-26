@@ -2,6 +2,9 @@
 
 I'm Hizume Kazushi  
 I mainly build with Go and TypeScript.
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=HizumeKazushi&show_icons=true&locale=en&layout=compact)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=HizumeKazushi)
 
 ### 🔧 Tech & Tools
