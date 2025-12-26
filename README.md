@@ -3,6 +3,7 @@
 I'm Hizume Kazushi  
 I mainly build with Go and TypeScript.
 ### 🔧 Tech & Tools
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HizumeKazushi&show_icons=true&theme=radical)
   ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
 
 ---
