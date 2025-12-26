@@ -9,8 +9,9 @@ I mainly build with Go and TypeScript.
 ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
 
 
-<details><summary>My hobby>Msummarya
+<details><summary>My hobby</summary>
 - Watching MotorSport
+  
 </details>
 
 ---
