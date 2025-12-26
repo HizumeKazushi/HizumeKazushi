@@ -3,7 +3,7 @@
 I'm Hizume Kazushi  
 I mainly build with Go and TypeScript.
 ### 🔧 Tech & Tools
-![](https://github-readme-stats.vercel.app/api?username=hizumekazushi&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=HizumeKazushi&show_icons=true&theme=radical)
   ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
 
 ---
