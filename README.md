@@ -15,5 +15,7 @@ I mainly build with Go and TypeScript.
 日詰 和志（Hizume Kazushi）です。  
 バックエンドを中心に、Go と TypeScript で開発しています。
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HizumeKazushi&theme=ayu_mirage)
+
 ### 🔧 技術スタック
 ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
