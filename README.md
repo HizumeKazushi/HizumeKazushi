@@ -5,8 +5,6 @@ I mainly build with Go and TypeScript.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HizumeKazushi&theme=ayu_mirage)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HizumeKazushi&theme=tokyonight&date_format=%5BY.%5Dm.%5Dd)
-
 ### 🔧 Tech & Tools
 ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
 
