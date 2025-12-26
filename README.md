@@ -8,7 +8,8 @@ I mainly build with Go and TypeScript.
 - Frontend: Vue 3, Nuxt.js, Vuetify
 - Infra/DB: Docker, MySQL
 
-  ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
+  ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify)
+  ![](https://skillicons.dev/icons?i=nuxtjs,nextjs,mysql,nginx,docker,git,github)
 
 ---
 
