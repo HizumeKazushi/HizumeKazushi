@@ -5,10 +5,10 @@ I mainly build with Go and TypeScript.
 ### 🔧 Tech & Tools
 - Languages: Go, TypeScript
 - Backend/Frameworks: Echo
-- Frontend: Vue 3, Nuxt 3, Vuetify
-- Infra/DB: Docker, PostgreSQL
+- Frontend: Vue 3, Nuxt.js, Vuetify
+- Infra/DB: Docker, MySQL
 
-  ![](https://skillicons.dev/icons?i=go,js,ts,html,css,nuxtjs,nextjs,mysql,nginx,docker,git,github)
+  ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
 
 ---
 
