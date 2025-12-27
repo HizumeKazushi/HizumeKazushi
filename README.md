@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I'm Hizume Kazushi  
-I mainly build with Go and TypeScript.
+I am a student at a college of technology.
+I develop primarily in Go and TypeScript, focusing on backend and web development.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HizumeKazushi&theme=ayu_mirage)
 
@@ -10,7 +11,6 @@ I mainly build with Go and TypeScript.
 
 
 ### My hobby
-- Watching MotorSports
 - Listening to music
 - Collect gadget
 - Making keyboard
@@ -20,7 +20,8 @@ I mainly build with Go and TypeScript.
 ## こんにちは 👋
 
 日詰 和志（Hizume Kazushi）です。  
-バックエンドを中心に、Go と TypeScript で開発しています。
+私は高専の学生です。
+バックエンド、web開発を中心に、Go と TypeScript で開発しています。
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HizumeKazushi&theme=ayu_mirage)
 
@@ -28,7 +29,6 @@ I mainly build with Go and TypeScript.
 ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
 
 ### 趣味
-- モータスポーツ観戦
 - 音楽鑑賞
 - ガジェット収集
 - 自作キーボード
