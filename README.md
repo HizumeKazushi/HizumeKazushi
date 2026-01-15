@@ -4,6 +4,9 @@ I'm Hizume Kazushi
 I am a student at a college of technology.
 I develop primarily in Go and TypeScript, focusing on backend and web development.
 
+<img src="https://github-readme-stats.vercel.app/api?username=HizumeKazushi&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HizumeKazushi&layout=compact&theme=tokyonight" />
+
 ### 🔧 Tech & Tools
 ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
 
