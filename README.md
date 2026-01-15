@@ -3,12 +3,6 @@
 I'm Hizume Kazushi  
 I am a student at a college of technology.
 I develop primarily in Go and TypeScript, focusing on backend and web development.
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HizumeKazushi&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=HizumeKazushi&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=HizumeKazushi&theme=juicyfresh&no-bg=true" />
-
 
 ### 🔧 Tech & Tools
 ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
@@ -26,8 +20,6 @@ I develop primarily in Go and TypeScript, focusing on backend and web developmen
 日詰 和志（Hizume Kazushi）です。  
 私は高専の学生です。
 バックエンド、web開発を中心に、Go と TypeScript で開発しています。
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HizumeKazushi&theme=ayu_mirage)
 
 ### 🔧 技術スタック
 ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
