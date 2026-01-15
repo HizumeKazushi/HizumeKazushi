@@ -4,7 +4,7 @@ I'm Hizume Kazushi
 I am a student at a college of technology.
 I develop primarily in Go and TypeScript, focusing on backend and web development.
 
-<img src="https://streak-stats.demolab.com?user=HizumeKazushi&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=HizumeKazushi)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔧 Tech & Tools
 ![](https://skillicons.dev/icons?i=go,js,ts,html,css,vue,vuetify,nuxtjs,nextjs,mysql,nginx,docker,git,github)
