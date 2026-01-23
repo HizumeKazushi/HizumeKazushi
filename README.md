@@ -4,8 +4,7 @@ I'm Hizume Kazushi
 I am a student at a college of technology.
 I develop primarily in Go and TypeScript, focusing on backend and web development.
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HizumeKazushi&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=HizumeKazushi&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HizumeKazushi&show_icons=true&theme=radical)![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=HizumeKazushi&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HizumeKazushi&layout=compact&theme=radical)
 
