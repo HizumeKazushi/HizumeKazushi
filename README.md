@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Hizume Kazushi  
+I'm Kazushi Hizume. 
 I am a student at a college of technology.
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HizKz&show_icons=true&theme=radical)
